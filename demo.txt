@@ -1,0 +1,2 @@
+
+Count of increase times is  1297
